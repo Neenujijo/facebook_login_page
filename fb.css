@@ -42,6 +42,7 @@ body{
 }
 
 .forgot{
+
     color: whitesmoke;
     font-size: 15px;
     text-decoration: none;
@@ -73,6 +74,7 @@ body{
 .right-sec{
     
     padding-top: 30px;
+   
     width: 40%;
     float: left;
 }
@@ -84,10 +86,14 @@ body{
 }
 
 .image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 800px;
     height: 587px;
     padding-left: 35px;
     padding-top: 111px;
+    ;
 }
 
 .span-1{
@@ -103,3 +109,57 @@ body{
     font-size: 20px;
 }
 
+.input-first{
+    height: 30px;
+    width: 180px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+
+.input-email{
+    height: 30px;
+    width: 365px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+
+.input-password{
+    height: 30px;
+    width: 365px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+
+.Birthday{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #3c3033;
+}
+
+select{
+    height: 30px;
+    width: 55px;
+    padding: 6px;
+}
+
+.text{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+
+}
+
+.sign{
+   height: 35px;
+   width: 160px; 
+   color: #fff;
+   background: #368501;
+   font-size: 24px;
+   font-family: 'Times New Roman', Times, serif;
+   border-radius: 5px;
+   border: none;
+
+}
