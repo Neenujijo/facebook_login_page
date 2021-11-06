@@ -28,7 +28,7 @@ body{
 .login-right{
     width: 50%;
     float: right;
-    padding-top: 10px;
+    padding-top: 2px;
 }
 
 .login-label{
@@ -67,15 +67,15 @@ body{
 }
 
 .left-sec{
-    width: 60%;
+    width: 1000px;
     float: left;
 }
 
 .right-sec{
     
-    padding-top: 30px;
-   
-    width: 40%;
+    padding-top: 59px;
+    padding-left: 43px;
+    width: 450px;
     float: left;
 }
 
@@ -141,8 +141,8 @@ body{
 
 select{
     height: 30px;
-    width: 55px;
-    padding: 6px;
+    width: 65px;
+    padding: 0px;
 }
 
 .text{
